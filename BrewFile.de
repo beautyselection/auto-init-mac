@@ -1,6 +1,9 @@
 brew "python3"
 brew "pyenv"
-brew "pyenv-virtualenv"
 brew "black"
+brew "kubectl"
+brew "autojump"
+brew "tree"
 
 cask "dbeaver-community"
+cask "docker"
