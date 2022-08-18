@@ -16,7 +16,7 @@ if [ "$type" = "1" ]; then
 	brew bundle --file=./BrewFile.be
 elif [ "$type" = "2" ]; then
 	brew bundle --file=./BrewFile.fe
-elif ["$type" = "3"]; then	
+elif [ "$type" = "3" ]; then	
 	brew bundle --file=./BrewFile.de
 fi
 
