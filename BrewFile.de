@@ -1,0 +1,6 @@
+brew "python3"
+brew "pyenv"
+brew "pyenv-virtualenv"
+brew "black"
+
+cask "dbeaver-community"
